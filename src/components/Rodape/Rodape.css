@@ -1,0 +1,16 @@
+.rodape-site {
+    display: flex;
+    padding: 60px 10px;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #6278f7;
+}
+
+.rodape-site h3 {
+    color: #fff;
+}
+
+.rodape-site .logos {
+    display: flex;
+    gap: 40px;
+}
